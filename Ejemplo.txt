@@ -1,1 +1,3 @@
 Este documento es un ejemplo de como vincular un repositorio local con uno remoto
+
+Esta es una actualización desde Prog1 en la practica 2.
