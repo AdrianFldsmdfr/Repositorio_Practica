@@ -1,10 +1,10 @@
-# 🩺 INTACTUS - Sistema de Monitoreo Continuo y No Invasivo de Glucosa
+# INTACTUS - Sistema de Monitoreo Continuo y No Invasivo de Glucosa
 
 > **INTACTUS** *(del latín "intacto / no tocado")* es una solución tecnológica biomédica integral diseñada para monitorear los niveles de glucosa en sangre en tiempo real de forma **100% no invasiva**, eliminando la necesidad de punciones capilares y parches subcutáneos desechables.
 
 ---
 
-## 📋 Tabla de Contenidos
+## Tabla de Contenidos
 - [Acerca del Proyecto](#-acerca-del-proyecto)
 - [Propuesta de Valor](#-propuesta-de-valor)
 - [Arquitectura del Sistema](#-arquitectura-del-sistema)
@@ -19,7 +19,7 @@
 
 ---
 
-## 🔬 Acerca del Proyecto
+## Acerca del Proyecto
 
 El monitoreo tradicional de glucosa impone barreras significativas en la calidad de vida de personas con diabetes: dolor diario por punciones capilares, riesgo de infecciones y un alto costo recurrente en tiras reactivas y parches subcutáneos.
 
@@ -27,7 +27,7 @@ El monitoreo tradicional de glucosa impone barreras significativas en la calidad
 
 ---
 
-## ✨ Propuesta de Valor
+## Propuesta de Valor
 
 | Métrica / Aspecto | Glucómetro Tradicional | Parches Invasivos (CGM) | Pulsera INTACTUS |
 | :--- | :---: | :---: | :---: |
