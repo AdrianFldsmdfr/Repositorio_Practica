@@ -1,0 +1,36 @@
+on:
+    pull_request:
+        branches:
+            - main
+
+jobs:
+    test:
+        runs-on: ubuntu-latest
+
+        steps:
+            -name: Checkout repository
+            # github.com/actions en checkout es par
+            uses: actions/checkout@v7
+
+
+            -name: Verify index.html
+            run:|
+                echo "Verificando index.html"
+                teste -f index.html
+                echo "index.html encontrado"
+
+            
+            -name: Verify style.css
+            run:|
+                echo "Verificando style.css"
+                teste -f style.css
+                echo "style.css encontrado"
+
+
+            -name: Verify HTML estructure
+            run:|
+                echo "Verificando estructura HTML...."
+
+                grep -qi "<html" index.html
+                grep -q1 "<head" index.html
+                grep -q1 "<body" index.html
