@@ -8,4 +8,4 @@
 3. SIstema de alertas en caso de alguna potencial crisis hipoglucemica.
 4. a largo plazo es una excelente inversion ademas de evitar la contaminacion que generar los sistemas de monitoreo comunes.
 
-![Logotipo INTACTUS:](C:\Users\Adrian\Documents\Repositorio_Practica\logo.png)
+![Logotipo INTACTUS:](logo.png)
