@@ -36,5 +36,5 @@ jobs:
       - name: Verify CSS reference
         run: |
           echo "Verificando referencia CSS..."
-          grep -q 'styles.css' index.html
+          grep -q 'style.css' index.html
           echo "Referencia CSS verificada"
