@@ -2,7 +2,7 @@ name: testPush
 
 on:
   push:
-    branches: [prog2]
+    branches: [Prog2]
 
 jobs:
   build:
